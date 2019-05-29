@@ -349,6 +349,7 @@
     <Compile Include="Models\Proceso.cs" />
     <Compile Include="Models\Productos.cs" />
     <Compile Include="Models\Proveedor.cs" />
+    <Compile Include="Models\Prueba.cs" />
     <Compile Include="Models\Puestos.cs" />
     <Compile Include="Models\PuestosGrupoHistoricos.cs" />
     <Compile Include="Models\PuestosGrupo.cs" />
